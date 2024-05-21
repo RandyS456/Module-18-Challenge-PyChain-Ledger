@@ -17,3 +17,25 @@ Challenge: PyChain Ledger- In this Challenge, we're making updates to the enclos
 
 ### Step 4: Test the PyChain Ledger by Storing Records
 * Test your complete `PyChain` ledger.
+
+
+### Please find Streamlit Screenshots below:
+
+Streamlit Screenshot of Blockchain content:
+![image](https://github.com/RandyS456/Module-18-Challenge-PyChain-Ledger/assets/153853186/0a624149-6180-40b3-9047-c3fb0103050c)
+
+Streamlit Screenshot of Blockchain content with verification:
+![image](https://github.com/RandyS456/Module-18-Challenge-PyChain-Ledger/assets/153853186/5fd0c9be-7a9c-43d8-af3c-6ec44b462643)
+
+
+
+
+
+
+
+
+
+
+
+
+
